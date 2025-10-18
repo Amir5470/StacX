@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+}
+#back {
+    background-color: #0e1804;
+    height:70px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 1px;
+
+}
+#logo {
+    width:70px;
+    height:70px;
+    border-radius: 10px;
+    margin-left:10px;
+}
