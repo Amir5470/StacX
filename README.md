@@ -28,4 +28,4 @@ Contributing
 Feel free to fork and submit PRs!
 
 License
-# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
