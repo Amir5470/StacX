@@ -1,0 +1,46 @@
+{
+  "name": "stacx",
+  "version": "1.0.0",
+  "description": "universal smart home controller",
+  "keywords": [
+    "smart-home",
+    "iot",
+    "home-automation",
+    "alexa",
+    "google-assistant",
+    "bixby",
+    "devices",
+    "dashboard",
+    "automation",
+    "stacx",
+    "control",
+    "universal-hub",
+    "ai",
+    "connectivity",
+    "next-gen",
+    "tech",
+    "network",
+    "integration",
+    "assistant"
+  ],
+  "homepage": "https://github.com/Amir5470/StacX#readme",
+  "bugs": {
+    "url": "https://github.com/Amir5470/StacX/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amir5470/StacX.git"
+  },
+  "license": "CC-BY-NC-4.0",
+  "author": "Amir Mechkour",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"no test command\"",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.3.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
