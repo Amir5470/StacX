@@ -12,6 +12,8 @@ function createWindow() {
         height: 900,
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
+            contextIsolation: true,  
+            nodeIntegration: false, 
         },
         title: 'StacX',
     })
